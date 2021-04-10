@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_photos_aeropress.jpg.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/generated/res/react/release/drawable-mdpi/src_photos_aeropress.jpg"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_static_icback.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/generated/res/react/release/drawable-mdpi/src_static_icback.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_photos_scale.jpg.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/generated/res/react/release/drawable-mdpi/src_photos_scale.jpg"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_photos_microfilter.jpg.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/generated/res/react/release/drawable-mdpi/src_photos_microfilter.jpg"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_photos_kettle.jpg.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/generated/res/react/release/drawable-mdpi/src_photos_kettle.jpg"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_photos_cup.jpg.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/generated/res/react/release/drawable-mdpi/src_photos_cup.jpg"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_photos_grinder.jpg.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/generated/res/react/release/drawable-mdpi/src_photos_grinder.jpg"
+    },
+    {
+        "merged": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "/Users/mohammadmohammadi/Documents/Projects/mbproj1/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    }
+]
