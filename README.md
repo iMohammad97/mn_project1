@@ -1,6 +1,6 @@
 # mn_project1
-Mohammad Mohammadi 95521414
-Arian Shariat 95521225
+Mohammad Mohammadi 95521414,
+Arian Shariat 95521225, 
 The first project is developed and built using react-native technology based on given images.
 ## Andoird app
 
